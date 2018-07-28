@@ -1,5 +1,5 @@
 app:  
-  info: dev 
-  name: config-client
+  info: test 
+  name: provider-user
   des: hello
   version: v1.0 
