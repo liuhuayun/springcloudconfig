@@ -1,0 +1,5 @@
+app:  
+  info: default 
+  name: provider-user
+  des: 默认
+  version: v1.0 

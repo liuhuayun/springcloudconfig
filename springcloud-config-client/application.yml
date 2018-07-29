@@ -1,0 +1,5 @@
+app:  
+  info: default 
+  name: config-client
+  des: 这就是默认的
+  version: v1.0 
