@@ -3,4 +3,4 @@ app:
   name: provider-user
   des: hello
   version: v1.0 
-  age:90
+  age: 90
