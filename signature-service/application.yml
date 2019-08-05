@@ -25,3 +25,4 @@ yingjgb:
   Signature:
     deviceType: 0
     dataType: 1
+    env: dev
