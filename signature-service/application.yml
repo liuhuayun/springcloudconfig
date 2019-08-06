@@ -21,6 +21,11 @@ spring:
     multipart:
       enabled: false
       max-file-size: 30MB
+  devtools: 
+    restart: 
+      # 设置热部署生效
+      enabled: true
+      trigger-file: restart.properties
 yingjgb:
   Signature:
     deviceType: 0
