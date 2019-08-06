@@ -1,5 +1,5 @@
 server:
-  port: 9009
+  port: 9007
 eureka:
   client:
     serviceUrl:
@@ -25,4 +25,4 @@ yingjgb:
   Signature:
     deviceType: 0
     dataType: 1
-    env: dev3
+    env: dev5
